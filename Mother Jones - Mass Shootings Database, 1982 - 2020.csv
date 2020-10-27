@@ -1,5 +1,4 @@
 case,location,date,fatalities,injured,total_victims,location,age_of_shooter,race,gender,latitude,longitude,type,year
-Molson Coors shooting,"Milwaukee, Wisconsin",2/26/2020,5,0,5,Workplace,51,Black,M,43.044511,-87.962537,Mass,2020
 Jersey City kosher market shooting,"Jersey City, New Jersey",12/10/2019,4,3,7,Other,-,Black,-,40.707363,-74.083609,Spree,2019
 Pensacola Naval base shooting,"Pensacola, Florida",12/6/2019,3,8,11,Military,-,-,M,30.364707,-87.288567,Mass,2019
 Odessa-Midland shooting spree,"Odessa, Texas",8/31/2019,7,25,32,Other,36,White,M,31.925974,-102.2796,Spree,2019
@@ -95,29 +94,3 @@ Xerox killings,"Honolulu, Hawaii",11/2/1999,7,0,7,Workplace,40,Asian,Male,21.320
 Wedgwood Baptist Church shooting,"Fort Worth, Texas",9/15/1999,8,7,15,Religious,47,white,Male,32.664511,-97.384246,Mass,1999
 Atlanta day trading spree killings,"Atlanta, Georgia",7/29/1999,9,13,22,Workplace,44,white,Male,33.850116,-84.377839,Mass,1999
 Columbine High School massacre,"Littleton, Colorado",4/20/1999,13,24,37,School,17,white,Male,39.604034,-105.074103,Mass,1999
-Thurston High School shooting,"Springfield, Oregon",5/21/1998,4,25,29,School,15,white,Male,44.0462362,-123.0220289,Mass,1998
-Westside Middle School killings,"Jonesboro, Arkansas",3/24/1998,5,10,15,School,11,white,Male,35.8209895,-90.6682606,Mass,1998
-Connecticut Lottery shooting,"Newington, Connecticut",3/6/1998,5,1,6,Workplace,35,white,Male,41.6856325,-72.72983827,Mass,1998
-Caltrans maintenance yard shooting,"Orange, California",12/18/1997,5,2,7,Workplace,41,Latino,Male,33.7877944,-117.8531119,Spree,1997
-R.E. Phelon Company shooting,"Aiken, South Carolina",9/15/1997,4,3,7,Workplace,43,black,Male,33.5598586,-81.721952,Mass,1997
-Fort Lauderdale revenge shooting,"Fort Lauderdale, Florida",2/9/1996,6,1,7,Workplace,41,black,Male,26.119269,-80.104119,Spree,1996
-Walter Rossler Company massacre,"Corpus Christi, Texas",4/3/1995,6,0,6,Workplace,28,unclear,Male,27.828025,-97.548198,Mass,1995
-Air Force base shooting,"Fairchild Air Force Base, Washington",6/20/1994,5,23,28,Military,20,white,Male,47.61864486,-117.6483587,Mass,1994
-Chuck E. Cheese's killings,"Aurora, Colorado",12/14/1993,4,1,5,Workplace,19,black,Male,39.675599,-104.844845,Mass,1993
-Long Island Rail Road massacre,"Garden City, New York",12/7/1993,6,19,25,Other,35,black,Male,40.7267682,-73.6342955,Spree,1993
-Luigi's shooting,"Fayetteville, North Carolina",8/6/1993,4,8,12,Other,22,white,Male,35.0529931,-78.8787058,Mass,1993
-101 California Street shootings,"San Francisco, California",7/1/1993,9,6,15,Other,55,white,Male,37.792968,-122.397973,Mass,1993
-Watkins Glen killings,"Watkins Glen, New York",10/15/1992,5,0,5,Other,50,white,Male,42.3810555,-76.8705777,Mass,1992
-Lindhurst High School shooting,"Olivehurst, California",5/1/1992,4,10,14,School,20,white,Male,39.07868761,-121.5475762,Mass,1992
-Royal Oak postal shootings,"Royal Oak, Michigan",11/14/1991,5,5,10,Workplace,31,white,Male,42.4894801,-83.1446485,Mass,1991
-University of Iowa shooting,"Iowa City, Iowa",11/1/1991,6,1,7,School,28,Asian,Male,41.6606893,-91.5302214,Spree,1991
-Luby's massacre,"Killeen, Texas",10/16/1991,24,20,44,Other,35,white,Male,31.1171194,-97.7277959,Mass,1991
-GMAC massacre,"Jacksonville, Florida",6/18/1990,10,4,14,Other,42,black,Male,30.3321838,-81.655651,Mass,1990
-Standard Gravure shooting,"Louisville, Kentucky",9/14/1989,9,12,21,Workplace,47,white,Male,38.2542376,-85.759407,Mass,1989
-Stockton schoolyard shooting,"Stockton, California",1/17/1989,6,29,35,School,26,white,Male,37.9577016,-121.2907796,Mass,1989
-ESL shooting,"Sunnyvale, California",2/16/1988,7,4,11,Workplace,39,white,Male,37.3688301,-122.0363496,Mass,1988
-Shopping centers spree killings,"Palm Bay, Florida",4/23/1987,6,14,20,Other,59,white,Male,28.0331886,-80.6429695,Spree,1987
-United States Postal Service shooting,"Edmond, Oklahoma",8/20/1986,15,6,21,Workplace,44,white,Male,35.6672015,-97.42937037,Mass,1986
-San Ysidro McDonald's massacre,"San Ysidro, California",7/18/1984,22,19,41,Other,41,white,Male,32.5520013,-117.0430813,Mass,1984
-Dallas nightclub shooting,"Dallas, Texas",6/29/1984,6,1,7,Other,39,white,Male,32.925166,-96.838676,Mass,1984
-Welding shop shooting,"Miami, Florida",8/20/1982,8,3,11,Other,51,white,Male,25.796491,-80.226683,Mass,1982
