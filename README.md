@@ -8,12 +8,13 @@ This project was in part inspired by the recent police shootings and by the rece
 The information from this project could be used for a variety of audiences. It can be used to show what types of places are more prone to mass shooting violence so that those places could improve security and police presences. It could also be used to bring attention to mass shooting violence in the United States to create a push to stop this type of violence.
 
 ## [Data](https://github.com/sheri-kamal/DATA78000-FA2020/blob/master/Mother%20Jones%20-%20Mass%20Shootings%20Database%2C%201982%20-%202020.csv)
-The data I will be using for my project is actually a database created and maintained by Mother Jones and is called the [Mother Jones - Mass Shootings Database, 1982 - 2020](https://docs.google.com/spreadsheets/d/1b9o6uDO18sLxBqPwl_Gh9bnhW-ev_dABH83M5Vb5L8o/edit#gid=0). Since this database is comprehensive, I do not anticipate any issues with using the data from this database. The database has a record of 91 mass shooting incidents spanning 4/20/1999 to 12/10/2019 and contains 24 columns, which I will be reducing to 14 columns. 
+The data I will be using for my project is actually a database created and maintained by Mother Jones and is called the [Mother Jones - Mass Shootings Database, 1982 - 2020](https://docs.google.com/spreadsheets/d/1b9o6uDO18sLxBqPwl_Gh9bnhW-ev_dABH83M5Vb5L8o/edit#gid=0). Since this database is comprehensive, I do not anticipate any issues with using the data from this database. The database has a record of 91 mass shooting incidents spanning 4/20/1999 to 12/10/2019 and contains 24 columns, which I will be reducing to 15 columns. 
 
 The final dataset will have the following columns:
   * Case
   * Location
   * Date
+  * Summary
   * Fatalities
   * Injured
   * Total Victims
