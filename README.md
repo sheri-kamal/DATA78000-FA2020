@@ -1,7 +1,7 @@
 # Interactive Data Visualization Studio Project
 
 ## [Prospectus](https://github.com/sheri-kamal/DATA78000-FA2020/blob/master/README.md)
-For my project, I will be exploring mass shootings in the United States. To do so, I will be using the [Mother Jones Mass Shootings Database](https://docs.google.com/spreadsheets/d/1b9o6uDO18sLxBqPwl_Gh9bnhW-ev_dABH83M5Vb5L8o/edit#gid=0) which includes incidents from 1982 to 2020. Using this database, I will analyze the race of the shooters, the predominant gender of mass shooters, and analyze the locations of the mass shootings. I may also conduct a time series analysis on the amount of mass shootings per year from 1999 to 2019, as well on victims of mass shootings per year from 1999 to 2019.
+For my project, I will be exploring mass shootings in the United States. To do so, I will be using the [Mother Jones Mass Shootings Database](https://docs.google.com/spreadsheets/d/1b9o6uDO18sLxBqPwl_Gh9bnhW-ev_dABH83M5Vb5L8o/edit#gid=0) which includes incidents from 1982 to 2020. Using this database, I will analyze the race of the shooters, the predominant gender of mass shooters, and analyze the locations of the mass shootings.
 
 This project was in part inspired by the recent police shootings and by the recent Black lives matter protests as most people assume that a shooter is Black once they hear shooting, which is why I plan to analyze the race of the shooters. 
 
