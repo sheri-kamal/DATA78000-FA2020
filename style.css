@@ -1,0 +1,11 @@
+body {
+  font-family: Sans-serif;
+  color: white;
+  background-color: grey;
+  margin: 5%;
+}
+
+.text {
+  line-height: 1.25;
+  
+}
