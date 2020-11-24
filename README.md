@@ -1,4 +1,4 @@
-# [Interactive Data Visualization Studio Project](https://sheri-kamal.github.io/DATA78000-FA2020/)
+# [Interactive Data Visualization Studio Project](https://sheri-kamal.github.io/DATA78000-FA2020/Two%20Decades%20of%20Mass%20Shooting%20Violence%2C%201999%20to%202019)
 
 ## [Prospectus](https://github.com/sheri-kamal/DATA78000-FA2020/blob/master/README.md)
 For my project, I will be exploring mass shootings in the United States. To do so, I will be using the [Mother Jones Mass Shootings Database](https://docs.google.com/spreadsheets/d/1b9o6uDO18sLxBqPwl_Gh9bnhW-ev_dABH83M5Vb5L8o/edit#gid=0) which includes incidents from 1982 to 2020. Using this database, I will analyze the race of the shooters, the predominant gender of mass shooters, and analyze the locations of the mass shootings.
