@@ -1,7 +1,7 @@
 # [Interactive Data Visualization Studio Project](https://sheri-kamal.github.io/DATA78000-FA2020/Project)
 
 ## [Prospectus](https://github.com/sheri-kamal/DATA78000-FA2020/blob/master/README.md)
-For my project, I will be exploring mass shootings in the United States. To do so, I will be using the [Mother Jones Mass Shootings Database](https://docs.google.com/spreadsheets/d/1b9o6uDO18sLxBqPwl_Gh9bnhW-ev_dABH83M5Vb5L8o/edit#gid=0) which includes incidents from 1982 to 2020. Using this database, I will analyze the race of the shooters, the predominant gender of mass shooters, and analyze the locations of the mass shootings.
+For my project, I will be exploring mass shootings in the United States. To do so, I will be using the [Mother Jones Mass Shootings Database](https://docs.google.com/spreadsheets/d/1b9o6uDO18sLxBqPwl_Gh9bnhW-ev_dABH83M5Vb5L8o/edit#gid=0) which includes incidents from 1982 to 2020. Using this database, I will analyze the race of the shooters, the predominant gender of mass shooters, and analyze the location types of the mass shootings.
 
 This project was in part inspired by the recent police shootings and by the recent Black lives matter protests as most people assume that a shooter is Black once they hear shooting, which is why I plan to analyze the race of the shooters. 
 
@@ -13,4 +13,8 @@ The data I will be using for my project is actually a database created and maint
 ## [Sketches and Mockups](https://github.com/sheri-kamal/DATA78000-FA2020/blob/master/Sketch%20and%20Mockup.png)
 The layout of the visualization will be a webpage with an incident map, a shooting location tree map organized by total victim count of each shooting type, two timelines one for each decade, a tree map of the cases organized by the total victim count, and two waffle charts showing shooter demographics (one for race and another for gender), as well as text throughout the page. 
 
+More information on the layout and the visualizations can be found in the [project pitch deck](https://github.com/sheri-kamal/DATA78000-FA2020/blob/master/Project%20Pitch%20Deck.pdf).
+
 ## [Project](https://sheri-kamal.github.io/DATA78000-FA2020/Project)
+
+## [Project Reflections](https://sheri-kamal.github.io/DATA78000-FA2020/Project%20Reflections)
