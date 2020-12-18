@@ -32,4 +32,4 @@ The layout of the visualization will be a webpage with an incident map, a shooti
 
 More information on the layout and the visualizations can be found in the [project pitch deck](https://github.com/sheri-kamal/DATA78000-FA2020/blob/master/Project%20Pitch%20Deck.pdf).
 
-## [Project](https://sheri-kamal.github.io/DATA78000-FA2020/Project) and [Project Reflections](https://sheri-kamal.github.io/DATA78000-FA2020/Project%20Reflections)
+## [Project](https://sheri-kamal.github.io/DATA78000-FA2020/Project) and [Project Reflections](https://github.com/sheri-kamal/DATA78000-FA2020/blob/master/Project%20Reflections.pdf)
